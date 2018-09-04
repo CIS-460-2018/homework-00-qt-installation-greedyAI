@@ -1,2 +1,2 @@
-Name: Wei (Waley) Zhang
+Wei (Waley) Zhang
 PennKey: wzha
